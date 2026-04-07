@@ -72,7 +72,7 @@ También tiene:
 - constructor
 - getters básicos
 - setters básicos
-- `agregarTrabajo(String trabajo)`
+- `agregarTrabajo(String trabajo)` 
 - `detenerProceso()`
 - `run()`
 - `toString()`
